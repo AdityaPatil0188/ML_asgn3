@@ -1,0 +1,9 @@
+{
+  "seq_len": 5,
+  "embed_dim": 64,
+  "hidden_dim": 1024,
+  "num_layers": 2,
+  "activation": "relu",
+  "dropout": 0.4,
+  "note": "MLPTextGen trained on leo_cleaned.txt"
+}
